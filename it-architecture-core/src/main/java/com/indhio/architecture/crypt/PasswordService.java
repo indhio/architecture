@@ -6,8 +6,11 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.security.SecureRandom;
 
+import javax.ejb.Singleton;
+
 import sun.misc.BASE64Encoder;
 
+@Singleton
 public final class PasswordService implements Serializable {
 
 	private static final long serialVersionUID = 1L;
