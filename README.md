@@ -17,4 +17,4 @@ Utilitary project works as support to all projects from Indhio Technologies
 
 ---
 
-Copyright © 2016 Indhio Technologies | [vinicius@indhio.com](vinicius@indhio.com)
+Copyright © Indhio Technologies | [vinicius@indhio.com](vinicius@indhio.com)
